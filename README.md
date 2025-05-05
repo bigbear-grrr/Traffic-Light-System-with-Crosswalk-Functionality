@@ -22,7 +22,7 @@ AVR assembly project for a traffic light system with crosswalk logic using Timer
 - **Resistors**:
   - 8 × 250 Ω (for leds)
   - 1 × 10kΩ (for one of the buttons)
-- uses ports B and D (specific pin assignments in the code)
+- *Uses ports B and D (specific pin assignments in the code)*
 - **Wires**
   
 ## flash the .asm file
