@@ -35,5 +35,5 @@ AVR assembly project for a traffic light system with crosswalk logic using Timer
 ![Screenshot of setup](https://github.com/user-attachments/assets/f7146596-c1ff-4e57-a3c4-711b34a0ce86)
 
 ## notes
-- This was part of a course project
+- Final Project for CDA 3104 (Computer Organization & Assembly Language Programming)
 - Created by Lillianmay Lancour, April 2025
