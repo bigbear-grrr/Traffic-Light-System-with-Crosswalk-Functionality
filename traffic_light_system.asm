@@ -128,7 +128,7 @@ main:
           
           
           sei       ;global interupts enabled
-          ;rcall     tmr1_isr   ;improper: but i got stuck on the propper flow
+           
 
 main_loop:
 ;scanning not interupting 
